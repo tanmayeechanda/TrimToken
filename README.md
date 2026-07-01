@@ -2,6 +2,8 @@
 
 Compress your codebase context with Huffman coding & intelligent hashing — so LLMs see more while you pay less.
 
+Live Link: https://trimtoken.vercel.app/
+
 ## Quick Start
 
 ### macOS / Linux
